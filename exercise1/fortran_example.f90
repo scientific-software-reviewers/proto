@@ -1,5 +1,5 @@
 program hello_world
 
-print*, 'hello world'
+print*, 'Hello World!'
 
 end program hello_world
